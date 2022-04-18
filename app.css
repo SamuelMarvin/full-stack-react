@@ -14,3 +14,20 @@
 .counter-container > * + * {
   margin-top: 4px;
 }
+
+.goals{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+ul{
+  display: flex;
+  margin: 5px;
+}
+
+br{
+  display: flex;
+  margin: 2px;
+}

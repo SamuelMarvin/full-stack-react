@@ -13,11 +13,14 @@
   "devDependencies": {
     "concurrently": "^7.1.0",
     "nodemon": "^2.0.15",
+    "pg": "^8.7.3",
     "snowpack": "^3.8.8"
   },
   "dependencies": {
     "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
     "express": "^4.17.3",
+    "prop-types": "^15.8.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
